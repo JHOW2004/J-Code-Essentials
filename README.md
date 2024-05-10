@@ -1,92 +1,91 @@
 # JhowSnippets
 
-## Descrição
+## Description
 
-JhowSnippets é uma extensão para o Visual Studio Code que oferece uma ampla variedade de snippets para melhorar a produtividade dos desenvolvedores. Com este conjunto de snippets, você pode acelerar o desenvolvimento de projetos em JavaScript, SQL, HTML, CSS e React.
+JhowSnippets is an extension for Visual Studio Code that offers a wide variety of snippets to enhance developers' productivity. With this set of snippets, you can accelerate the development of projects in JavaScript, SQL, HTML, CSS, and React.
 
 ---
 
 ## JavaScript Snippets
 
-### `myExtension.JBloc`
+### JBloc
 
-Cria um bloco anônimo de execução em JavaScript.
+Creates an anonymous execution block in JavaScript.
 
-### `myExtension.JConst`
+### JConst
 
-Cria uma função assíncrona com uma constante em JavaScript.
+Creates an asynchronous function with a constant in JavaScript.
 
 
 ## SQL Snippets
 
-### `myExtension.JDatabase`
+### JDatabase
 
-Cria um novo banco de dados em SQL.
+Creates a new database in SQL.
 
-### `myExtension.JProc`
+### JProc
 
-Cria um bloco de código de procedure em SQL.
+Creates a procedure code block in SQL.
 
-### `myExtension.JFun`
+### JFun
 
-Cria um bloco de código de procedure em SQL.
+Creates a procedure code block in SQL.
 
 
-### `myExtension.JTable`
+### JTable
 
-Cria uma nova tabela em SQL.
+Creates a new table in SQL.
 
-### `myExtension.JDelete`
+### JDelete
 
-Cria uma query de exclusão em SQL.
+Creates a delete query in SQL.
 
-### `myExtension.JInsert`
+### JInsert
 
-Cria uma query de inserção em SQL.
+Creates an insert query in SQL.
 
-### `myExtension.JSelect`
+### JSelect
 
-Cria uma query de seleção em SQL.
+Creates a select query in SQL.
 
 ---
 
 ## HTML & CSS Snippets
 
-### `myExtension.JHTML`
+### JHTML
 
-Cria um bloco HTML básico.
+Creates a basic HTML block.
 
-### `myExtension.JCSS`
+### JCSS
 
-Cria uma classe com estilização para centralizar em CSS.
+Creates a class with styling to center in CSS.
 
-### `myExtension.JMedia`
+### JMedia
 
-Cria um bloco de Media Query em CSS.
+Creates a Media Query block in CSS.
 
 ---
 
 ## React Snippets
 
-### `myExtension.JEffect`
+### JEffect
 
-Cria o hook useEffect do React.
-
----
-
-## Como usar
-
-Para utilizar os snippets, basta digitar o prefixo correspondente e pressionar `Tab` para expandi-lo em seu código.
+Creates the useEffect hook of React.
 
 ---
 
-## Contribuição
+## How to Use
 
-Contribuições são bem-vindas! Sinta-se à vontade para adicionar novos snippets ou melhorar os existentes.
+To use the snippets, simply type the corresponding prefix and press Tab to expand it in your code.
 
 ---
 
-## Licença
+## Contribution
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
+Contributions are welcome! Feel free to add new snippets or improve existing ones.
 
+---
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
