@@ -1,0 +1,95 @@
+{
+  "name": "jcodeessentials",
+  "displayName": "JCodeEssentials",
+  "description": "Bem-vindo ao JCodeEssentials, a sua ferramenta essencial para impulsionar sua produtividade como programador. Desenvolvido por Jonathas, esta extensão oferece uma coleção abrangente de snippets para diversas linguagens e tecnologias, incluindo JavaScript, SQL, Hooks do React, e templates HTML e CSS.",
+  "version": "1.0.0",
+  "icon": "img/icon.png",
+  "publisher": "Jonathas",
+  "author": {
+		"name": "Jonathas P. Gonçalves",
+		"email": "jonathaspereira673@gmail.com"
+	},
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "license": "MIT",
+	"homepage": "https://github.com/JHOW2004/J-Code-Essentials",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/JHOW2004/J-Code-Essentials.git"
+	},
+  "categories": [
+    "Snippets"
+  ],
+  "keywords": [
+		"jhow",
+		"code",
+		"jcodeessentials",
+		"pacote",
+		"pkg",
+		"css",
+		"html",
+    "react",
+    "sql"
+	],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "sql",
+        "path": "./snippets/create-databe.json"
+      },
+      {
+        "language": "sql",
+        "path": "./snippets/create-table.json"
+      },
+      {
+        "language": "sql",
+        "path": "./snippets/insert-table.json"
+      },
+      {
+        "language": "sql",
+        "path": "./snippets/select-table.json"
+      },
+      {
+        "language": "sql",
+        "path": "./snippets/delete.json"
+      },
+      {
+        "language": "sql",
+        "path": "./snippets/create-procedure.json"
+      },
+      {
+        "language": "sql",
+        "path": "./snippets/create-bloc.json"
+      },
+      {
+        "language": "sql",
+        "path": "./snippets/create-fun.json"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/useEff.json"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/create-table.json"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/create-const-fun.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/html.json"
+      },
+      {
+        "language": "css",
+        "path": "./snippets/css.json"
+      },
+      {
+        "language": "css",
+        "path": "./snippets/media.json"
+      }
+    ]
+  }
+}

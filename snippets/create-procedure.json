@@ -1,0 +1,13 @@
+{
+    "J Proc": {
+        "prefix": "jproc",
+        "body": [
+            "CREATE OR REPLACE PROCEDURE $1( $2 )",
+            "IS",
+            "\t$3",
+            "BEGIN",
+            "END;"
+        ],
+        "description": "Criar Bloco de código de procedure"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "J HTML": {
+        "prefix": "jHTML",
+        "body": [
+            "<!DOCTYPE html>",
+            "<html lang='en'>",
+            "<head>",
+            "\t<meta charset='UTF-8'>",
+            "\t<meta name='viewport' content='width=device-width, initial-scale=1.0'>",
+            "\t<title>Gerador de Links do WhatsApp</title>",
+            "\t<link rel='stylesheet' href='style.css'>",
+            "\t<link rel='icon' href='./assets/icon.png'>",
+            "</head>",
+            "<body>",
+            "</body>"
+        ],
+        "description": "Criar bloco HTML"
+    }
+}

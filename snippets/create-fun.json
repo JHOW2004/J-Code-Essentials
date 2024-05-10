@@ -1,0 +1,14 @@
+{
+    "J Fun": {
+        "prefix": "jfun",
+        "body": [
+            "CREATE OR REPLACE FUNCTION  $1( $2 )",
+            "RETURN $3",
+            "IS",
+            "BEGIN",
+            "\tRETURN $4;",
+            "END;"
+        ],
+        "description": "Criar bloco de código de função"
+    }
+}

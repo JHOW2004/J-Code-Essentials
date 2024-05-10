@@ -1,0 +1,11 @@
+{
+    "J Media": {
+        "prefix": "jmedia",
+        "body": [
+            "@media screen and (max-width: $1px) {",
+            "\t$2",
+            "}"
+        ],
+        "description": "Criar bloco de Media Query"
+    }
+}

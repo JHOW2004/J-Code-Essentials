@@ -1,0 +1,14 @@
+{
+    "J CSS": {
+        "prefix": "jCSS",
+        "body": [
+            ".content {",
+            "\tdisplay: flex;",
+            "\talign-items: center;",
+            "\tjustify-content: center;",
+            "\tflex-direction: column;",
+            "}"
+        ],
+        "description": "Criar classe com estilização para centralizar"
+    }
+}

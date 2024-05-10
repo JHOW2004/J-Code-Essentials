@@ -1,0 +1,11 @@
+{
+    "J Table": {
+        "prefix": "jtable",
+        "body": [
+            "CREATE TABLE $1 (",
+            "\tValor1 NUMBER PRIMARY KEY",
+            ");"
+        ],
+        "description": "Criar tablea"
+    }
+}

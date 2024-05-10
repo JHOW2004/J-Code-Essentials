@@ -1,0 +1,9 @@
+{
+    "J Databse": {
+        "prefix": "jdata",
+        "body": [
+            "CREATE DATABASE $1"
+        ],
+        "description": "Criar Database"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "J Bloc": {
+        "prefix": "jbloc",
+        "body": [
+            "DECLARE",
+            "\t$1",
+            "BEGIN",
+            "\t$2",
+            "END;"
+        ],
+        "description": "Criar bloco anonimo de execução"
+    }
+}

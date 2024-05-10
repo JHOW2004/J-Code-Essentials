@@ -1,0 +1,9 @@
+{
+    "J Select": {
+        "prefix": "jselect",
+        "body": [
+            "SELECT * FROM $1 WHERE $2 = $3"
+        ],
+        "description": "Criar Query de visualização"
+    }
+}

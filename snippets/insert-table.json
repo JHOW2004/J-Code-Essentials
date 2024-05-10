@@ -1,0 +1,10 @@
+{
+    "J Insert": {
+        "prefix": "jinsert",
+        "body": [
+            "INSERT INTO $1 ( $2 ) ",
+            "\tVALUES ( $3 );"
+        ],
+        "description": "Criar Query de insersão"
+    }
+}

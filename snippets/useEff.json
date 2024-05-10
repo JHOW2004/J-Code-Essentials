@@ -1,0 +1,11 @@
+{
+    "J Effect": {
+        "prefix": "jeffect",
+        "body": [
+            "useEffect(() => {",
+            "\t$1",
+            "}, [])"
+        ],
+        "description": "Criaro Hook USeEffect do React"
+    }
+}

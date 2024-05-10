@@ -1,0 +1,11 @@
+{
+    "J Const": {
+        "prefix": "jconst",
+        "body": [
+            "const $1 = async () => {",
+            "\t$2",
+            "}"
+        ],
+        "description": "Criar uma função com uma constante"
+    }
+}

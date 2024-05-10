@@ -1,0 +1,9 @@
+{
+    "J delete": {
+        "prefix": "jdelete",
+        "body": [
+            "DELETE FROM $1 WHERE $2 = $3"
+        ],
+        "description": "Criar Query de exclusão"
+    }
+}
